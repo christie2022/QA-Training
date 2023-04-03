@@ -1,2 +1,2 @@
 # QA-Training
-this file will contain my trainng docs
+this file will contain my training docs
